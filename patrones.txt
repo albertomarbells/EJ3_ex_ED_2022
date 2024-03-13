@@ -1,0 +1,1 @@
+Cada patrón es como un plano que se puede personalizar para resolver un problema de diseño particular de tu código.
